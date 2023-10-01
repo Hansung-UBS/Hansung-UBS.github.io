@@ -1,5 +1,5 @@
 {
-  id : "test",
-  pw : "1234",
-  userName : "테스트용",
+  id: "test",
+  pw: "1234",
+  userName: "테스트용",
 }
